@@ -1,6 +1,6 @@
 # The Last Night at Changi
 
-**[▶ Play it in your browser](https://fang89.github.io/last-night-at-changi/)** · one HTML file · desktop and phone · light and dark mode · about 45–60 minutes
+**[▶ Play it in your browser](https://fang89.github.io/last-night-at-changi/)** · one HTML file · desktop and phone · light and dark mode
 
 ![The title banner: Old Changi Hospital at night, one window lit, a KEEP OUT sign on the fence](docs/title.png)
 
@@ -53,7 +53,7 @@ It started from the puzzle books of **Nomis Piy**: a short scene, a puzzle, and 
 
 **2. Write the ending first.** The final message was chosen before any puzzle. Then each room's answer had to do two jobs: move the story forward *and* contain the right letter for the final message. The answers were picked to fit both.
 
-**3. Choose puzzles people enjoy.** The eight puzzle types follow roughly how escape-room players rank them: logic and ciphers first, maths last. Playtesting cut two early ideas. Morse code was a chore, and a Caesar shift was "very tedious to shift every alphabet back". The rule from then on: **visual matching and one aha moment, never mechanical decoding.** About eight symbols to decode, not a paragraph.
+**3. Choose puzzles people enjoy.** The eight puzzle types follow roughly how escape-room players rank them: logic and ciphers first, maths last. Early feedback cut two ideas. Morse code was a chore, and a Caesar shift was "very tedious to shift every alphabet back". The rule from then on: **visual matching and one aha moment, never mechanical decoding.** About eight symbols to decode, not a paragraph.
 
 **4. Write the story with restraint.** One protagonist with a job to do, one mysterious patient whose needs drive every room, and one twist at the end. The story leaves the emotions unspoken and lets objects carry them.
 
