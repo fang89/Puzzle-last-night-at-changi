@@ -1,8 +1,33 @@
-# The Last Night at Changi
+<div align="center">
 
-**[▶ Play it in your browser](https://fang89.github.io/last-night-at-changi/)** · one HTML file · desktop and phone · light and dark mode
+<a href="https://fang89.github.io/last-night-at-changi/"><img src="docs/banner.png" alt="The Last Night at Changi: the hospital at night behind a fence, one lit window, a KEEP OUT sign" width="860"></a>
 
-![A short tour: the title banner at night, the torch dragged onto the dark handover report in Ward Six, and the first two patients dragged into their beds](docs/tour.gif)
+# 🏚️ The Last Night at Changi
+
+### A puzzle story in eight rooms.
+
+The final night before Changi Hospital closed in 1997. One HTML file, plays in your browser.
+
+<br>
+
+[![Play it now](https://img.shields.io/badge/▶_Play_it_now-fang89.github.io%2Flast--night--at--changi-166534?style=for-the-badge)](https://fang89.github.io/last-night-at-changi/)
+
+<br>
+
+![Rooms](https://img.shields.io/badge/rooms-8-a16207)
+![Puzzles](https://img.shields.io/badge/puzzle_types-8%2C_none_repeat-a16207)
+![Hints](https://img.shields.io/badge/hints-2_per_room-a16207)
+![Devices](https://img.shields.io/badge/plays_on-desktop_%26_phone-475569)
+![Themes](https://img.shields.io/badge/light_%26_dark-✓-475569)
+![Files](https://img.shields.io/badge/ships_as-one_HTML_file-475569)
+
+<br>
+
+<img src="docs/tour.gif" alt="A short tour: the title banner at night, the torch dragged onto the dark handover report in Ward Six, and the first two patients dragged into their beds" width="760">
+
+</div>
+
+<br>
 
 > *Changi Hospital closes at seven tomorrow morning. Someone has to sit the final night with the building. The roster says Nurse Ellis: three months qualified, and junior enough that nobody thought to ask.*
 
@@ -12,7 +37,7 @@ You have a torch, a ring of spare keys and eight rooms to lock before morning.
 
 ---
 
-## What's inside
+## 🗝️ What's inside
 
 **Eight rooms, eight kinds of puzzle.** Each room is a manila case note with an ink-wash drawing of the scene, a page of story and one puzzle. No puzzle type repeats.
 
@@ -45,7 +70,7 @@ You have a torch, a ring of spare keys and eight rooms to lock before morning.
 
 ---
 
-## How it was made
+## ✍️ How it was made
 
 It started from the puzzle books of **Nomis Piy**: a short scene, a puzzle, and an answer that unlocks the next page. The goal was to bring that format to a browser and set it somewhere real in Singapore.
 
@@ -75,7 +100,7 @@ The game was built with [Claude Code](https://claude.com/claude-code). The game 
 
 ---
 
-## Play
+## ▶️ Play
 
 **https://fang89.github.io/last-night-at-changi/**
 
