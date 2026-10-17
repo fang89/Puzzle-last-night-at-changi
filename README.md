@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://fang89.github.io/last-night-at-changi/"><img src="docs/banner.png" alt="The Last Night at Changi: the hospital at night behind a fence, one lit window, a KEEP OUT sign" width="860"></a>
+<a href="https://fang89.github.io/Puzzle-last-night-at-changi/"><img src="docs/banner.png" alt="The Last Night at Changi: the hospital at night behind a fence, one lit window, a KEEP OUT sign" width="860"></a>
 
 # 🏚️ The Last Night at Changi
 
@@ -10,7 +10,7 @@ The final night before Changi Hospital closed in 1997. One HTML file, plays in y
 
 <br>
 
-[![Play it now](https://img.shields.io/badge/▶_Play_it_now-fang89.github.io%2Flast--night--at--changi-166534?style=for-the-badge)](https://fang89.github.io/last-night-at-changi/)
+[![Play it now](https://img.shields.io/badge/▶_Play_it_now-fang89.github.io%2FPuzzle--last--night--at--changi-166534?style=for-the-badge)](https://fang89.github.io/Puzzle-last-night-at-changi/)
 
 <br>
 
@@ -102,7 +102,7 @@ The game was built with [Claude Code](https://claude.com/claude-code). The game 
 
 ## ▶️ Play
 
-**https://fang89.github.io/last-night-at-changi/**
+**https://fang89.github.io/Puzzle-last-night-at-changi/**
 
 Or download `index.html` and open it. It needs nothing else apart from Google Fonts.
 
