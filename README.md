@@ -2,7 +2,7 @@
 
 **[▶ Play it in your browser](https://fang89.github.io/last-night-at-changi/)** · one HTML file · desktop and phone · light and dark mode
 
-![The title banner: Old Changi Hospital at night, one window lit, a KEEP OUT sign on the fence](docs/title.png)
+![A short tour: the title banner at night, the torch dragged onto the dark handover report in Ward Six, and the first two patients dragged into their beds](docs/tour.gif)
 
 > *Changi Hospital closes at seven tomorrow morning. Someone has to sit the final night with the building. The roster says Nurse Ellis: three months qualified, and junior enough that nobody thought to ask.*
 
@@ -41,7 +41,7 @@ You have a torch, a ring of spare keys and eight rooms to lock before morning.
 
 **Nothing to spoil.** Rooms 2 to 8 are encrypted in the page using the answer to the room before, so you can't skip ahead with View Source, and the answers aren't stored in it either. Progress is saved in your browser, so you can close the tab and come back.
 
-<p align="center"><img src="docs/phone-dark.png" width="300" alt="The game on a phone in dark mode, with the answer sheet and the pockets bar"></p>
+<p align="center"><img src="docs/phone-dark.gif" width="300" alt="The same tour on a phone in dark mode"></p>
 
 ---
 
